@@ -3,7 +3,7 @@
 RSS Reader as a Progressive Web App (you can install it on your smartphone like a native application) made in React.
 
 # Live Here
-This project is live here: [cyrilnb.github.io/Feeder/](https://cyrilnb.github.io/Feeder/)
+This project is live here: [cyrilnb.github.io/Feeder/](https://cyrilnb.github.io/Feeder-PWA/)
 
 # Stack
 
