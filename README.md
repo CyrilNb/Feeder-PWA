@@ -5,6 +5,14 @@ RSS Reader as a Progressive Web App (you can install it on your smartphone like 
 # Live Here
 This project is live here: [cyrilnb.github.io/Feeder/](https://cyrilnb.github.io/Feeder-PWA/)
 
+Warning: if some images can't be displayed, its probably due to a CORS configuration on github-pages that I can't modify.
+You can follow the instructions below to run it locally if you wanna try.
+
+# Instructions
+- Clone the repo.
+- Go inside the root folder.
+- `npm run start` to start the local develoment server! It will open a new tab at http://localhost:3000 .
+
 # Stack
 
 - React
