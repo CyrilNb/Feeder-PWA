@@ -22,14 +22,14 @@ class ArticlesList extends Component {
 
     getArticles = (rssfeed) => {
         let feedToLoad = '';
-        /*if(this.state.rssfeed === ''){
+        if(this.state.rssfeed === ''){
             feedToLoad = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fkorben.info%2Ffeed&api_key=3qybrxxi2i2qxmtnekkwgx4kejnrzlbnqulxmx75&order_by=pubDate&order_dir=desc&count=8"
         }
-        else{*/
+        else{
             feedToLoad = this.state.rssfeed
-        //}
+        }
         console.log("Feed to load: "+feedToLoad);
-        axios.get(rssfeed)
+        axios.get(feedToLoad)
         .then(response => {
            const items = response.data.items;
            this.setState({ articles: items });
