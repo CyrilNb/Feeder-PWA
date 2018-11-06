@@ -21,8 +21,8 @@ You can follow the instructions below to run it locally if you wanna try.
 - API used: [rss2json.com](https://rss2json.com)
 
 # Screenshots
+![45488571_262713651255986_3189672597839151104_n](https://user-images.githubusercontent.com/15064826/48070968-5da44680-e1d9-11e8-9184-cea8faedb285.jpg)
 
-![screen shot 2018-11-04 at 3 05 11 pm](https://user-images.githubusercontent.com/15064826/47965417-5fd69b80-e047-11e8-83f5-c58f13fd1540.png)
 
 ![screen shot 2018-11-04 at 3 37 31 pm](https://user-images.githubusercontent.com/15064826/47965432-97ddde80-e047-11e8-8921-0b3665fbe497.png)
 
